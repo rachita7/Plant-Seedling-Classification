@@ -1,5 +1,7 @@
-# Plant Seedling Classification
+# 🌱 Plant Seedling Classification
 Rank 13/835 Top(1.56%)
+
+Academic Project for CE4041 Machine Learning (NTU)
 
 ## Overview
 
